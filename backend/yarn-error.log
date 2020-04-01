@@ -1,0 +1,37 @@
+Arguments: 
+  /home/leticia/.nvm/versions/node/v10.15.3/bin/node /home/leticia/.nvm/versions/node/v10.15.3/bin/yarn add express
+
+PATH: 
+  /home/leticia/.zinit/polaris/bin:/home/leticia/.nvm/versions/node/v10.15.3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/leticia/Documentos/Android/Sdk/emulator:/home/leticia/Documentos/Android/Sdk/tools:/home/leticia/Documentos/Android/Sdk/tools/bin:/home/leticia/Documentos/Android/Sdk/platform-tools:/home/leticia/Documentos/Android/Sdk/emulator:/home/leticia/Documentos/Android/Sdk/tools:/home/leticia/Documentos/Android/Sdk/tools/bin:/home/leticia/Documentos/Android/Sdk/platform-tools
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.15.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: connect ENETUNREACH 2606:4700::6810:1b23:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+
+npm manifest: 
+  {
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
