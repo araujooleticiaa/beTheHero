@@ -1,15 +1,5 @@
 <h2 align="center">💡 Desafio da SemanaOmni Stack 11.0 -  Be The Hero</h2>
 
-<p align="center">
-
-  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.13.1-339933?logo=node.js">
-
-  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fred-Reis/challenge_backEnd-04_GoStack-v2">
-
-</p>
-
 <hr/>
 
 ![Farmers Market Finder Demo](apresentacao.gif)
