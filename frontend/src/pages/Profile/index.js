@@ -73,7 +73,7 @@ export default function Profile() {
             <p>{incident.description}</p>
 
             <strong>VALOR:</strong>
-            <p>{Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL'}).format(incident.value)}</p>
+            <p>R$ {incident.value}</p>
 
             <button onClick={() => handleDelete(incident.id)} type="submit">
               <FiTrash2 size={18} color="#e02041" />
