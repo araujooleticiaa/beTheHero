@@ -1,4 +1,4 @@
-<h2 align="center">💡 Desafio da SemanaOmni Stack 11.0 -  Be The Hero</h2>
+<h2 align="center">💡 Desafio da Semana Omnistack 11.0 -  Be The Hero</h2>
 
 <hr/>
 
